@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @aayush1100
-- 👀 I’m interested in kali linux
+- 👋 Hi, I’m @RUBBLExD
+- 👀 I’m interested in kali linux iam also intersted in ml and power bi or bussiness releated things
 - 🌱 I’m currently learning in class 9
-- 💞️ I’m looking to collaborate on ethical hacking
+- 💞️ I’m looking to collaborate on ethical hacking and some professional codings
+  
+  
 
 
 <!---
